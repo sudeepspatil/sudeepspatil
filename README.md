@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sudeepspatil
-- 👀 I’m interested in Web , AI, Blockchain
-- 🌱 I’m currently learning Blockchain & Deep learning
+- 👋 Hi, I’m @sudeep $ patil
+- 👀 I’m interested in Web , AI, Blockchain.
+- 🌱 I’m currently learning Blockchain & Deep learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
